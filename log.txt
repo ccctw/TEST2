@@ -1,0 +1,1967 @@
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-08-29 03:12:22  frankey lin  ...     NaN            False
+1    2023-08-28 05:49:15  frankey lin  ...     NaN            False
+2    2023-08-28 05:39:30  frankey lin  ...     NaN            False
+3    2023-08-28 05:35:39  frankey lin  ...     NaN            False
+4    2023-08-25 07:45:18   Nepson Lee  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+115  2023-05-16 03:21:54   Adair Peng  ...     NaN            False
+116  2023-05-15 14:37:33   Adair Peng  ...     NaN            False
+117  2023-05-04 04:02:04   Adair Peng  ...     NaN            False
+118  2023-04-27 09:41:14   Adair Peng  ...     NaN            False
+119  2023-04-27 09:21:24   Adair Peng  ...     NaN            False
+
+[120 rows x 8 columns]
+2023-08-29
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Mitac Information Technology Corp
+Scan date: 2023-08-29
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[Debug] Cannot get the excel file: CFH
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 02:05:11       devops  ...     NaN            False
+1     2023-09-12 01:51:14       devops  ...     NaN            False
+2     2023-09-11 10:20:47       devops  ...     NaN            False
+3     2023-09-11 09:34:54       devops  ...     NaN            False
+4     2023-09-11 08:15:14       devops  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+8767  2022-02-14 08:13:33     Eddy_Chi  ...     NaN            False
+8768  2022-02-14 08:05:41     Eddy_Chi  ...     NaN            False
+8769  2022-02-14 08:01:02     Eddy_Chi  ...     NaN            False
+8770  2022-02-14 07:04:40     Eddy_Chi  ...     NaN            False
+8771  2022-02-14 06:27:57     Eddy_Chi  ...     NaN            False
+
+[8772 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CLI
+Scan date: 2023-09-12
+Update org outdated version users succeed: CLI
+Version and users:
+unified-agent:22.1.2 Robert Huang\\nunified-agent:22.7.2 devops
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:58:12   Jack Huang  ...     NaN            False
+1     2023-09-12 07:07:17   Jack Huang  ...     NaN            False
+2     2023-09-12 06:14:00   Jack Huang  ...     NaN            False
+3     2023-09-12 06:10:17   Jack Huang  ...     NaN            False
+4     2023-09-12 06:07:38   Jack Huang  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+4175  2022-03-28 01:53:13     Eddy_Chi  ...     NaN            False
+4176  2022-03-28 01:37:15     Eddy_Chi  ...     NaN            False
+4177  2022-03-25 05:34:50     Eddy_Chi  ...     NaN            False
+4178  2022-03-25 05:17:10     Eddy_Chi  ...     NaN            False
+4179  2022-03-25 03:10:45     Eddy_Chi  ...     NaN            False
+
+[4180 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Cathay Securities
+Scan date: 2023-09-12
+Update org outdated version users succeed: Cathay Securities
+Version and users:
+unified-agent:22.1.2 Jack Huang
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time     Requested By  ... Comment Policy Violation
+0   2023-07-26 07:44:02  Yuanta Funds IT  ...     NaN            False
+1   2023-07-26 07:43:33  Yuanta Funds IT  ...     NaN            False
+2   2023-07-26 06:44:40  Yuanta Funds IT  ...     NaN            False
+3   2023-07-26 06:43:52  Yuanta Funds IT  ...     NaN            False
+4   2023-07-26 06:38:17  Yuanta Funds IT  ...     NaN            False
+5   2023-07-26 06:37:05  Yuanta Funds IT  ...     NaN            False
+6   2023-07-26 06:36:23  Yuanta Funds IT  ...     NaN            False
+7   2023-07-26 06:33:27  Yuanta Funds IT  ...     NaN            False
+8   2023-07-26 06:32:56  Yuanta Funds IT  ...     NaN            False
+9   2023-07-24 07:21:29       Tina_WT_Su  ...     NaN            False
+10  2023-07-24 06:15:39       Tina_WT_Su  ...     NaN            False
+11  2023-07-24 06:14:10       Tina_WT_Su  ...     NaN            False
+12  2023-07-14 08:38:29  Yuanta Funds IT  ...     NaN            False
+13  2023-07-14 08:37:22  Yuanta Funds IT  ...     NaN            False
+14  2023-07-14 08:37:22  Yuanta Funds IT  ...     NaN            False
+15  2023-07-14 07:20:01  Yuanta Funds IT  ...     NaN            False
+16  2023-07-14 07:16:19  Yuanta Funds IT  ...     NaN            False
+17  2023-07-14 07:16:13  Yuanta Funds IT  ...     NaN            False
+18  2023-07-14 07:08:46  Yuanta Funds IT  ...     NaN            False
+19  2023-07-14 07:08:37  Yuanta Funds IT  ...     NaN            False
+
+[20 rows x 8 columns]
+2023-07-26
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Yuanta Funds
+Scan date: 2023-07-26
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-11 09:47:32   gitlab-bot  ...     NaN            False
+1    2023-09-11 09:03:23   gitlab-bot  ...     NaN            False
+2    2023-09-11 09:00:36   gitlab-bot  ...     NaN            False
+3    2023-09-11 07:36:10   gitlab-bot  ...     NaN            False
+4    2023-09-11 07:33:33   gitlab-bot  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+248  2023-07-17 07:14:13        arick  ...     NaN            False
+249  2023-07-17 07:14:10        arick  ...     NaN            False
+250  2023-07-17 07:03:25        arick  ...     NaN            False
+251  2023-07-17 03:22:36     fennykuo  ...     NaN            False
+252  2023-07-17 02:42:07     fennykuo  ...     NaN            False
+
+[253 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Hon Hai Precision Industry
+Scan date: 2023-09-11
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-08-29 03:12:22  frankey lin  ...     NaN            False
+1    2023-08-28 05:49:15  frankey lin  ...     NaN            False
+2    2023-08-28 05:39:30  frankey lin  ...     NaN            False
+3    2023-08-28 05:35:39  frankey lin  ...     NaN            False
+4    2023-08-25 07:45:18   Nepson Lee  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+115  2023-05-16 03:21:54   Adair Peng  ...     NaN            False
+116  2023-05-15 14:37:33   Adair Peng  ...     NaN            False
+117  2023-05-04 04:02:04   Adair Peng  ...     NaN            False
+118  2023-04-27 09:41:14   Adair Peng  ...     NaN            False
+119  2023-04-27 09:21:24   Adair Peng  ...     NaN            False
+
+[120 rows x 8 columns]
+2023-08-29
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Mitac Information Technology Corp
+Scan date: 2023-08-29
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time      Requested By  ... Comment Policy Violation
+0     2023-09-12 08:00:50  cfh-azure-devops  ...     NaN            False
+1     2023-09-12 07:58:41  cfh-azure-devops  ...     NaN            False
+2     2023-09-12 07:56:53  cfh-azure-devops  ...     NaN            False
+3     2023-09-12 07:54:49  cfh-azure-devops  ...     NaN            False
+4     2023-09-12 07:49:24  cfh-azure-devops  ...     NaN            False
+...                   ...               ...  ...     ...              ...
+8435  2022-04-26 15:05:13                CT  ...     NaN            False
+8436  2022-04-26 10:43:46                CT  ...     NaN            False
+8437  2022-04-26 10:25:02                CT  ...     NaN            False
+8438  2022-02-22 05:41:13      SHANG-LI ZHU  ...     NaN            False
+8439  2022-02-22 01:48:16      SHANG-LI ZHU  ...     NaN            False
+
+[8440 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CFH
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 02:05:11       devops  ...     NaN            False
+1     2023-09-12 01:51:14       devops  ...     NaN            False
+2     2023-09-11 10:20:47       devops  ...     NaN            False
+3     2023-09-11 09:34:54       devops  ...     NaN            False
+4     2023-09-11 08:15:14       devops  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+8767  2022-02-14 08:13:33     Eddy_Chi  ...     NaN            False
+8768  2022-02-14 08:05:41     Eddy_Chi  ...     NaN            False
+8769  2022-02-14 08:01:02     Eddy_Chi  ...     NaN            False
+8770  2022-02-14 07:04:40     Eddy_Chi  ...     NaN            False
+8771  2022-02-14 06:27:57     Eddy_Chi  ...     NaN            False
+
+[8772 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CLI
+Scan date: 2023-09-12
+Update org outdated version users succeed: CLI
+Version and users:
+unified-agent:22.1.2 Robert Huang\\nunified-agent:22.7.2 devops
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:58:12   Jack Huang  ...     NaN            False
+1     2023-09-12 07:07:17   Jack Huang  ...     NaN            False
+2     2023-09-12 06:14:00   Jack Huang  ...     NaN            False
+3     2023-09-12 06:10:17   Jack Huang  ...     NaN            False
+4     2023-09-12 06:07:38   Jack Huang  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+4175  2022-03-28 01:53:13     Eddy_Chi  ...     NaN            False
+4176  2022-03-28 01:37:15     Eddy_Chi  ...     NaN            False
+4177  2022-03-25 05:34:50     Eddy_Chi  ...     NaN            False
+4178  2022-03-25 05:17:10     Eddy_Chi  ...     NaN            False
+4179  2022-03-25 03:10:45     Eddy_Chi  ...     NaN            False
+
+[4180 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Cathay Securities
+Scan date: 2023-09-12
+Update org outdated version users succeed: Cathay Securities
+Version and users:
+unified-agent:22.1.2 Jack Huang
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time     Requested By  ... Comment Policy Violation
+0   2023-07-26 07:44:02  Yuanta Funds IT  ...     NaN            False
+1   2023-07-26 07:43:33  Yuanta Funds IT  ...     NaN            False
+2   2023-07-26 06:44:40  Yuanta Funds IT  ...     NaN            False
+3   2023-07-26 06:43:52  Yuanta Funds IT  ...     NaN            False
+4   2023-07-26 06:38:17  Yuanta Funds IT  ...     NaN            False
+5   2023-07-26 06:37:05  Yuanta Funds IT  ...     NaN            False
+6   2023-07-26 06:36:23  Yuanta Funds IT  ...     NaN            False
+7   2023-07-26 06:33:27  Yuanta Funds IT  ...     NaN            False
+8   2023-07-26 06:32:56  Yuanta Funds IT  ...     NaN            False
+9   2023-07-24 07:21:29       Tina_WT_Su  ...     NaN            False
+10  2023-07-24 06:15:39       Tina_WT_Su  ...     NaN            False
+11  2023-07-24 06:14:10       Tina_WT_Su  ...     NaN            False
+12  2023-07-14 08:38:29  Yuanta Funds IT  ...     NaN            False
+13  2023-07-14 08:37:22  Yuanta Funds IT  ...     NaN            False
+14  2023-07-14 08:37:22  Yuanta Funds IT  ...     NaN            False
+15  2023-07-14 07:20:01  Yuanta Funds IT  ...     NaN            False
+16  2023-07-14 07:16:19  Yuanta Funds IT  ...     NaN            False
+17  2023-07-14 07:16:13  Yuanta Funds IT  ...     NaN            False
+18  2023-07-14 07:08:46  Yuanta Funds IT  ...     NaN            False
+19  2023-07-14 07:08:37  Yuanta Funds IT  ...     NaN            False
+
+[20 rows x 8 columns]
+2023-07-26
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Yuanta Funds
+Scan date: 2023-07-26
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-11 09:47:32   gitlab-bot  ...     NaN            False
+1    2023-09-11 09:03:23   gitlab-bot  ...     NaN            False
+2    2023-09-11 09:00:36   gitlab-bot  ...     NaN            False
+3    2023-09-11 07:36:10   gitlab-bot  ...     NaN            False
+4    2023-09-11 07:33:33   gitlab-bot  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+248  2023-07-17 07:14:13        arick  ...     NaN            False
+249  2023-07-17 07:14:10        arick  ...     NaN            False
+250  2023-07-17 07:03:25        arick  ...     NaN            False
+251  2023-07-17 03:22:36     fennykuo  ...     NaN            False
+252  2023-07-17 02:42:07     fennykuo  ...     NaN            False
+
+[253 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Hon Hai Precision Industry
+Scan date: 2023-09-11
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time  Requested By  ... Comment Policy Violation
+0   2023-06-26 08:02:50  Michael Tsai  ...     NaN            False
+1   2022-12-05 03:05:59     yoyo.tsai  ...     NaN            False
+2   2022-11-08 06:22:06     yoyo.tsai  ...     NaN            False
+3   2022-10-25 04:00:22     yoyo.tsai  ...     NaN            False
+4   2022-09-29 02:06:29     Alan.Kuan  ...     NaN            False
+..                  ...           ...  ...     ...              ...
+94  2020-05-28 08:34:42      Leah Lee  ...     NaN            False
+95  2020-05-18 09:17:36      Leah Lee  ...     NaN            False
+96  2020-04-22 08:04:30      Leah Lee  ...     NaN            False
+97  2020-04-22 07:53:53      Leah Lee  ...     NaN            False
+98  2019-12-05 08:35:50      Leah Lee  ...     NaN            False
+
+[99 rows x 8 columns]
+2023-06-26
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: MSIG
+Scan date: 2023-06-26
+Update org outdated version users succeed: MSIG
+Version and users:
+unified-agent:20.11.2 Michael Tsai
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-06 02:21:48       circle  ...     NaN            False
+1    2023-09-05 07:24:35       circle  ...     NaN            False
+2    2023-09-05 06:10:40       circle  ...     NaN            False
+3    2023-08-30 03:51:42       circle  ...     NaN            False
+4    2023-08-30 02:17:32       circle  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+546  2023-01-18 01:56:39       circle  ...     NaN            False
+547  2023-01-17 14:40:00       circle  ...     NaN            False
+548  2023-01-17 14:38:12       circle  ...     NaN            False
+549  2023-01-17 14:33:24       circle  ...     NaN            False
+550  2023-01-17 08:22:33        Bella  ...     NaN            False
+
+[551 rows x 8 columns]
+2023-09-06
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: SinoPac Securities
+Scan date: 2023-09-06
+Update org outdated version users succeed: SinoPac Securities
+Version and users:
+unified-agent:22.11.3 Riggs, Yeh
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time  ... Policy Violation
+0    2023-08-21 01:11:42  ...            False
+1    2023-08-21 01:11:36  ...            False
+2    2023-08-10 01:11:31  ...            False
+3    2023-07-14 03:22:39  ...            False
+4    2023-07-14 02:59:43  ...            False
+..                   ...  ...              ...
+310  2023-03-03 07:55:53  ...            False
+311  2023-03-03 07:44:12  ...            False
+312  2023-03-03 07:44:00  ...            False
+313  2023-03-03 07:43:58  ...            False
+314  2023-03-03 07:43:53  ...            False
+
+[315 rows x 8 columns]
+2023-08-21
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: FEIB
+Scan date: 2023-08-21
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time               Requested By  ... Comment Policy Violation
+0     2023-09-11 21:12:37  azure_devops_int_KGI_Bank  ...     NaN            False
+1     2023-09-11 20:08:47  azure_devops_int_KGI_Bank  ...     NaN            False
+2     2023-09-08 21:16:10  azure_devops_int_KGI_Bank  ...     NaN            False
+3     2023-09-08 20:13:47  azure_devops_int_KGI_Bank  ...     NaN            False
+4     2023-09-08 05:12:12                     137186  ...     NaN            False
+...                   ...                        ...  ...     ...              ...
+2370  2019-11-15 01:31:18                     129862  ...     NaN            False
+2371  2019-11-15 01:03:55                     129862  ...     NaN            False
+2372  2019-11-14 09:31:52                     129862  ...     NaN            False
+2373  2019-11-14 09:20:51                     129862  ...     NaN            False
+2374  2019-11-08 02:38:23                   Leah Lee  ...     NaN            False
+
+[2375 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: KGI Bank
+Scan date: 2023-09-11
+Update org outdated version users succeed: KGI Bank
+Version and users:
+unified-agent:20.8.1.1 129862\\nunified-agent:21.3.2 137186
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time    Requested By  ... Comment Policy Violation
+0     2023-09-12 07:43:09      David Chou  ...     NaN            False
+1     2023-09-12 07:08:01      David Chou  ...     NaN            False
+2     2023-09-12 06:50:00      David Chou  ...     NaN            False
+3     2023-09-12 02:27:51      David Chou  ...     NaN            False
+4     2023-09-11 09:03:27      David Chou  ...     NaN            False
+...                   ...             ...  ...     ...              ...
+4351  2018-07-27 07:34:59  GssWhiteSource  ...     NaN            False
+4352  2018-07-06 07:27:03  GssWhiteSource  ...     NaN            False
+4353  2018-07-06 07:26:54  GssWhiteSource  ...     NaN            False
+4354  2018-07-06 07:23:44  GssWhiteSource  ...     NaN            False
+4355  2018-07-06 07:23:35  GssWhiteSource  ...     NaN            False
+
+[4356 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Galaxy Software Services
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-07 09:34:22    Gary Chou  ...     NaN            False
+1    2023-09-06 07:33:33    Gary Chou  ...     NaN            False
+2    2023-09-06 07:32:00    Gary Chou  ...     NaN            False
+3    2023-09-06 07:30:26    Gary Chou  ...     NaN            False
+4    2023-09-04 05:32:35    Gary Chou  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+611  2020-09-01 09:58:57    Gary Chou  ...     NaN            False
+612  2020-09-01 07:30:41    Gary Chou  ...     NaN            False
+613  2020-08-31 09:25:01    Gary Chou  ...     NaN            False
+614  2020-08-28 10:16:46    Gary Chou  ...     NaN            False
+615  2020-08-28 09:28:15    Gary Chou  ...     NaN            False
+
+[616 rows x 8 columns]
+2023-09-07
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: China Life
+Scan date: 2023-09-07
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:29:11          sam  ...     NaN            False
+1     2023-09-12 06:36:47          sam  ...     NaN            False
+2     2023-09-12 04:46:21          sam  ...     NaN            False
+3     2023-09-12 04:31:48          sam  ...     NaN            False
+4     2023-09-12 04:15:27          sam  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+4281  2020-12-24 03:22:55          sam  ...     NaN            False
+4282  2020-12-24 03:21:12          sam  ...     NaN            False
+4283  2020-12-24 03:18:39          sam  ...     NaN            False
+4284  2020-12-24 03:17:42          sam  ...     NaN            False
+4285  2020-12-24 03:17:31          sam  ...     NaN            False
+
+[4286 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: BANK SINOPAC COMPANY LIMITED
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-11 03:26:41      NT87750  ...     NaN            False
+1     2023-09-11 03:25:02      NT87750  ...     NaN            False
+2     2023-09-11 03:25:02      NT87750  ...     NaN            False
+3     2023-09-11 02:29:34      NT87750  ...     NaN            False
+4     2023-09-11 02:27:54      NT87750  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+8278  2019-10-03 01:47:02     Leah Lee  ...     NaN            False
+8279  2019-10-02 12:33:55     Leah Lee  ...     NaN            False
+8280  2019-10-02 12:27:53     Leah Lee  ...     NaN            False
+8281  2019-10-02 12:22:44     Leah Lee  ...     NaN            False
+8282  2019-10-02 10:17:36     Leah Lee  ...     NaN            False
+
+[8283 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Cathay United Bank
+Scan date: 2023-09-11
+Update org outdated version users succeed: Cathay United Bank
+Version and users:
+unified-agent:22.1.1 NT87750
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+Empty DataFrame
+Columns: [Time, Requested By, Agent, Request Type, Request Token, Product, Comment, Policy Violation]
+Index: []
+index 0 is out of bounds for axis 0 with size 0
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time         Requested By  ... Comment Policy Violation
+0     2023-09-12 07:22:22  KGI_WS_Service_User  ...     NaN            False
+1     2023-09-12 05:53:39  KGI_WS_Service_User  ...     NaN            False
+2     2023-09-12 02:54:32  KGI_WS_Service_User  ...     NaN            False
+3     2023-09-12 02:21:30  KGI_WS_Service_User  ...     NaN            False
+4     2023-09-12 02:17:41  KGI_WS_Service_User  ...     NaN            False
+...                   ...                  ...  ...     ...              ...
+4396  2019-12-24 04:12:10            TonyCheng  ...     NaN            False
+4397  2019-12-23 05:13:38            TonyCheng  ...     NaN            False
+4398  2019-12-20 03:46:15            TonyCheng  ...     NaN            False
+4399  2019-12-20 03:42:43            TonyCheng  ...     NaN            False
+4400  2019-12-20 03:42:17            TonyCheng  ...     NaN            False
+
+[4401 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: KGI Securities
+Scan date: 2023-09-12
+Update org outdated version users succeed: KGI Securities
+Version and users:
+unified-agent:19.11.1 TonyCheng
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time  ... Policy Violation
+0     2023-09-12 07:57:10  ...            False
+1     2023-09-12 07:16:46  ...            False
+2     2023-09-12 07:14:10  ...            False
+3     2023-09-12 07:13:13  ...            False
+4     2023-09-12 07:06:00  ...            False
+...                   ...  ...              ...
+9995  2022-07-02 00:54:15  ...            False
+9996  2022-07-01 23:29:26  ...            False
+9997  2022-07-01 23:20:02  ...            False
+9998  2022-07-01 23:11:15  ...            False
+9999  2022-07-01 22:59:35  ...            False
+
+[10000 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: MEGABANK TW
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 08:04:41         yggu  ...     NaN            False
+1     2023-09-12 08:04:29         yggu  ...     NaN            False
+2     2023-09-12 08:04:24         yggu  ...     NaN            False
+3     2023-09-12 08:04:02         yggu  ...     NaN            False
+4     2023-09-12 08:03:56         yggu  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+9995  2023-09-07 03:46:32         yggu  ...     NaN            False
+9996  2023-09-07 03:46:22         yggu  ...     NaN            False
+9997  2023-09-07 03:46:17         yggu  ...     NaN            False
+9998  2023-09-07 03:46:07         yggu  ...     NaN            False
+9999  2023-09-07 03:46:03         yggu  ...     NaN            False
+
+[10000 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CHTTL
+Scan date: 2023-09-12
+Update org outdated version users succeed: CHTTL
+Version and users:
+unified-agent:22.11.1 8080_620@cht.com.tw
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-11 01:42:19     Feng_Jao  ...     NaN            False
+1    2023-09-11 01:32:27     Feng_Jao  ...     NaN            False
+2    2023-09-08 03:24:49     Feng_Jao  ...     NaN            False
+3    2023-09-08 02:50:23     Feng_Jao  ...     NaN            False
+4    2023-09-08 02:31:57     Feng_Jao  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+479  2021-11-29 07:55:06     Feng_Jao  ...     NaN            False
+480  2021-11-18 06:41:19     Feng_Jao  ...     NaN            False
+481  2021-11-18 05:53:40     Eddy_Chi  ...     NaN            False
+482  2021-11-18 00:58:34     Eddy_Chi  ...     NaN            False
+483  2021-11-05 07:09:26     Eddy_Chi  ...     NaN            False
+
+[484 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Entrust Securities Co.,Ltd
+Scan date: 2023-09-11
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-07-23 03:17:34          吳佳駿  ...     NaN            False
+1    2023-07-23 02:59:51          吳佳駿  ...     NaN            False
+2    2023-07-23 02:45:23          吳佳駿  ...     NaN            False
+3    2023-07-21 10:16:07          吳佳駿  ...     NaN            False
+4    2023-07-21 09:28:13          吳佳駿  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+295  2021-11-22 08:50:06     Allen Ko  ...     NaN            False
+296  2021-11-22 08:35:05     Allen Ko  ...     NaN            False
+297  2021-11-22 08:18:09     Allen Ko  ...     NaN            False
+298  2021-11-22 08:10:54     Allen Ko  ...     NaN            False
+299  2021-11-22 08:01:59     Allen Ko  ...     NaN            False
+
+[300 rows x 8 columns]
+2023-07-23
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Telecom Technology Center
+Scan date: 2023-07-23
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 06:13:32     chiahung  ...     NaN            False
+1    2023-09-12 06:13:28     chiahung  ...     NaN            False
+2    2023-09-12 06:13:23     chiahung  ...     NaN            False
+3    2023-09-12 06:13:18     chiahung  ...     NaN            False
+4    2023-09-12 06:13:12     chiahung  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+837  2022-01-19 07:11:51   allen_wang  ...     NaN            False
+838  2022-01-19 06:53:49   allen_wang  ...     NaN            False
+839  2022-01-05 07:47:35   allen_wang  ...     NaN            False
+840  2022-01-05 07:47:30   allen_wang  ...     NaN            False
+841  2022-01-05 03:03:05   allen_wang  ...     NaN            False
+
+[842 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CEI
+Scan date: 2023-09-12
+Update org outdated version users succeed: CEI
+Version and users:
+unified-agent:21.10.2 chiahung
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-01 06:16:06        jerry  ...     NaN            False
+1    2023-09-01 06:14:59        jerry  ...     NaN            False
+2    2023-09-01 03:55:29        jerry  ...     NaN            False
+3    2023-09-01 02:33:20        jerry  ...     NaN            False
+4    2023-09-01 02:14:58        jerry  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+134  2022-05-12 05:12:48        jerry  ...     NaN            False
+135  2022-04-28 08:03:57        jerry  ...     NaN            False
+136  2022-04-27 08:30:50        jerry  ...     NaN            False
+137  2022-04-26 07:40:06        jerry  ...     NaN            False
+138  2022-04-22 02:52:22        jerry  ...     NaN            False
+
+[139 rows x 8 columns]
+2023-09-01
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Mega-Sec
+Scan date: 2023-09-01
+Update org outdated version users succeed: Mega-Sec
+Version and users:
+unified-agent:22.1.2 jerry
+[1] enter getPluginRequestHistoryReport
+[Debug] Cannot get the excel file: Taiwan High Speed Rail Corporation
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time     Requested By  ... Comment Policy Violation
+0    2023-09-05 06:29:59  Cheng-Guang Fan  ...     NaN            False
+1    2023-08-24 03:17:41  Cheng-Guang Fan  ...     NaN            False
+2    2023-08-23 06:29:09  Cheng-Guang Fan  ...     NaN            False
+3    2023-08-23 06:27:45  Cheng-Guang Fan  ...     NaN            False
+4    2023-08-23 06:05:53  Cheng-Guang Fan  ...     NaN            False
+..                   ...              ...  ...     ...              ...
+535  2021-04-27 09:19:46  Cheng-Guang Fan  ...     NaN            False
+536  2021-04-27 09:13:17  Cheng-Guang Fan  ...     NaN            False
+537  2021-04-27 06:53:58  Cheng-Guang Fan  ...     NaN            False
+538  2021-04-20 07:26:35  Cheng-Guang Fan  ...     NaN            False
+539  2021-04-20 07:10:43  Cheng-Guang Fan  ...     NaN            False
+
+[540 rows x 8 columns]
+2023-09-05
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Central Bank of the Republic of China(Taiwan)
+Scan date: 2023-09-05
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 03:14:07        TSC58  ...     NaN            False
+1    2023-09-12 02:42:58        TSC58  ...     NaN            False
+2    2023-09-11 07:01:05        TSC58  ...     NaN            False
+3    2023-09-08 07:56:33        TSC58  ...     NaN            False
+4    2023-09-08 05:25:08        TSC58  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+513  2023-05-03 15:58:20     fennykuo  ...     NaN            False
+514  2023-05-03 15:52:45     fennykuo  ...     NaN            False
+515  2023-05-03 15:49:15     fennykuo  ...     NaN            False
+516  2023-05-03 15:26:34     fennykuo  ...     NaN            False
+517  2023-05-03 15:23:08     fennykuo  ...     NaN            False
+
+[518 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Taiwan Sugar Corporation-New
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 07:11:03    Richie Li  ...     NaN            False
+1    2023-09-12 04:03:13    Richie Li  ...     NaN            False
+2    2023-09-12 01:47:13    Richie Li  ...     NaN            False
+3    2023-09-11 10:29:02    Richie Li  ...     NaN            False
+4    2023-09-11 08:43:58    Richie Li  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+982  2022-07-28 03:50:25   Mike Zhang  ...     NaN            False
+983  2022-07-28 03:41:41   Mike Zhang  ...     NaN            False
+984  2022-07-28 03:20:18    Richie Li  ...     NaN            False
+985  2022-07-28 03:05:51    Richie Li  ...     NaN            False
+986  2022-07-19 07:01:00    Richie Li  ...     NaN            False
+
+[987 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Castles Technology
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-06-29 05:13:31          王識超  ...     NaN            False
+1    2023-06-29 03:47:06          王識超  ...     NaN            False
+2    2023-06-29 03:38:01          王識超  ...     NaN            False
+3    2023-05-15 05:55:07          資二組  ...     NaN            False
+4    2023-05-15 05:32:47          資二組  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+328  2020-07-28 06:25:52      Yu Phin  ...     NaN            False
+329  2020-07-28 06:25:40      Yu Phin  ...     NaN            False
+330  2020-07-28 06:24:02      Yu Phin  ...     NaN            False
+331  2020-07-28 06:22:24      Yu Phin  ...     NaN            False
+332  2020-07-17 06:23:11      Yu Phin  ...     NaN            False
+
+[333 rows x 8 columns]
+2023-06-29
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: 台灣電力公司
+Scan date: 2023-06-29
+Update org outdated version users succeed: 台灣電力公司
+Version and users:
+unified-agent:22.6.1 王識超
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time Requested By  ... Comment Policy Violation
+0   2022-11-10 02:59:00          李其穆  ...     NaN            False
+1   2022-11-10 02:40:11          李其穆  ...     NaN            False
+2   2022-11-10 02:15:37          李其穆  ...     NaN            False
+3   2022-10-25 07:22:15          李其穆  ...     NaN            False
+4   2022-10-25 06:23:36          李其穆  ...     NaN            False
+5   2022-10-25 04:41:00          李其穆  ...     NaN            False
+6   2022-10-25 04:13:00          李其穆  ...     NaN            False
+7   2022-10-25 04:08:02          李其穆  ...     NaN            False
+8   2022-10-25 02:45:06          李其穆  ...     NaN            False
+9   2022-10-25 02:29:02          李其穆  ...     NaN            False
+10  2022-10-25 02:13:05          李其穆  ...     NaN            False
+11  2022-10-21 10:07:45          李其穆  ...     NaN            False
+12  2022-10-21 09:27:20          李其穆  ...     NaN            False
+13  2022-10-21 06:55:50          李其穆  ...     NaN            False
+14  2022-10-20 08:38:19          李其穆  ...     NaN            False
+15  2022-10-20 05:21:25        Bella  ...     NaN            False
+16  2022-10-20 05:15:56        Bella  ...     NaN            False
+
+[17 rows x 8 columns]
+2022-11-10
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: 和泰產險
+Scan date: 2022-11-10
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time  Requested By  ... Comment Policy Violation
+0     2023-09-12 06:46:18    Tseng Paul  ...     NaN            False
+1     2023-09-12 06:22:28    Tseng Paul  ...     NaN            False
+2     2023-09-12 06:05:35    Tseng Paul  ...     NaN            False
+3     2023-09-12 05:44:06    Tseng Paul  ...     NaN            False
+4     2023-09-12 02:58:09    Tseng Paul  ...     NaN            False
+...                   ...           ...  ...     ...              ...
+2561  2022-09-22 02:10:06  Jinzung Chiu  ...     NaN            False
+2562  2022-09-22 01:50:50  Jinzung Chiu  ...     NaN            False
+2563  2022-09-22 01:50:28  Jinzung Chiu  ...     NaN            False
+2564  2022-09-22 01:43:47  Jinzung Chiu  ...     NaN            False
+2565  2022-09-22 01:43:46  Jinzung Chiu  ...     NaN            False
+
+[2566 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: INVENTEC
+Scan date: 2023-09-12
+Update org outdated version users succeed: INVENTEC
+Version and users:
+unified-agent:22.8.3 Benson Tan\\nunified-agent:22.8.3 Chain-Wu Lee\\nunified-agent:22.8.2 Cindy Lin\\ngeneric:22.8.3 Long Chen\\nunified-agent:22.8.2 PeterHs\\nunified-agent:22.8.2 Yang Benson\\nunified-agent:22.8.3 Yeh.KevinJT 葉建廷 TAO
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 06:20:48          蔡佳學  ...     NaN            False
+1    2023-09-11 08:29:15          蔡佳學  ...     NaN            False
+2    2023-09-08 09:05:06          蔡佳學  ...     NaN            False
+3    2023-09-08 09:02:34          蔡佳學  ...     NaN            False
+4    2023-09-06 06:59:22          蔡佳學  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+265  2022-09-23 08:20:34     Leah Lee  ...     NaN            False
+266  2022-09-23 03:07:17     Leah Lee  ...     NaN            False
+267  2022-09-23 02:51:36     Leah Lee  ...     NaN            False
+268  2022-09-23 02:33:13     Leah Lee  ...     NaN            False
+269  2022-09-23 02:29:28     Leah Lee  ...     NaN            False
+
+[270 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CDC
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time Requested By  ... Comment Policy Violation
+0   2023-06-16 08:29:26  Philip Chen  ...     NaN            False
+1   2023-06-16 06:56:52  Philip Chen  ...     NaN            False
+2   2023-06-16 06:22:17  Philip Chen  ...     NaN            False
+3   2023-06-13 00:37:01  Philip Chen  ...     NaN            False
+4   2023-06-08 07:44:09  Philip Chen  ...     NaN            False
+5   2023-06-08 07:18:19  Philip Chen  ...     NaN            False
+6   2023-06-08 07:05:53  Philip Chen  ...     NaN            False
+7   2023-06-08 06:10:13  Philip Chen  ...     NaN            False
+8   2023-06-08 06:01:21  Philip Chen  ...     NaN            False
+9   2023-06-06 01:09:35  Philip Chen  ...     NaN            False
+10  2023-05-03 08:57:27     david yu  ...     NaN            False
+11  2023-05-03 08:46:28     david yu  ...     NaN            False
+12  2023-05-03 08:04:12     david yu  ...     NaN            False
+13  2023-05-03 07:51:23     david yu  ...     NaN            False
+14  2023-05-03 06:37:55     david yu  ...     NaN            False
+15  2023-05-03 06:31:37   Tony Chang  ...     NaN            False
+16  2023-05-03 06:29:44     david yu  ...     NaN            False
+17  2023-05-03 06:28:19   Tony Chang  ...     NaN            False
+18  2023-05-03 06:19:42   Tony Chang  ...     NaN            False
+19  2023-05-03 05:22:33     david yu  ...     NaN            False
+20  2023-05-03 04:27:03     david yu  ...     NaN            False
+21  2023-05-03 03:47:43     david yu  ...     NaN            False
+22  2023-05-03 02:14:15     david yu  ...     NaN            False
+23  2023-05-03 02:01:37     david yu  ...     NaN            False
+24  2023-05-03 00:18:45   Tony Chang  ...     NaN            False
+25  2023-05-03 00:15:31   Tony Chang  ...     NaN            False
+26  2023-04-24 05:08:54   Tony Chang  ...     NaN            False
+27  2023-04-14 07:37:08        Yicih  ...     NaN            False
+28  2023-02-18 03:31:55   Tony Chang  ...     NaN            False
+29  2023-02-18 03:28:32   Tony Chang  ...     NaN            False
+30  2023-02-18 03:12:57   Tony Chang  ...     NaN            False
+31  2023-02-14 03:57:52          蔡政峰  ...     NaN            False
+32  2023-02-13 08:08:33          蔡政峰  ...     NaN            False
+33  2023-02-13 05:27:02          蔡政峰  ...     NaN            False
+34  2023-02-13 05:15:38          蔡政峰  ...     NaN            False
+35  2023-02-10 08:33:01        Yicih  ...     NaN            False
+36  2023-02-10 08:31:33        Yicih  ...     NaN            False
+37  2023-02-10 08:26:10        Yicih  ...     NaN            False
+38  2023-02-10 07:45:41        Yicih  ...     NaN            False
+39  2023-02-10 07:33:29        Yicih  ...     NaN            False
+40  2023-02-10 04:26:47     david yu  ...     NaN            False
+41  2023-02-10 03:19:34     david yu  ...     NaN            False
+42  2023-02-10 03:18:42  Philip Chen  ...     NaN            False
+43  2023-02-10 03:07:47     david yu  ...     NaN            False
+44  2023-02-10 02:58:31     Leah Lee  ...     NaN            False
+45  2023-02-10 02:55:59          蔡政峰  ...     NaN            False
+46  2023-02-10 02:55:38     david yu  ...     NaN            False
+47  2023-02-10 02:53:59          蔡政峰  ...     NaN            False
+48  2023-02-10 02:52:44        Yicih  ...     NaN            False
+49  2023-02-10 02:47:59       dennis  ...     NaN            False
+50  2023-02-10 02:47:34  Philip Chen  ...     NaN            False
+51  2023-02-10 02:46:22        Bella  ...     NaN            False
+52  2023-02-10 02:46:13       dennis  ...     NaN            False
+53  2022-10-27 07:26:00        Bella  ...     NaN            False
+54  2022-10-27 07:20:59        Bella  ...     NaN            False
+55  2022-10-27 07:12:48        Bella  ...     NaN            False
+56  2022-10-25 08:25:34     David Yu  ...     NaN            False
+
+[57 rows x 8 columns]
+2023-06-16
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Walsin
+Scan date: 2023-06-16
+Update org outdated version users succeed: Walsin
+Version and users:
+unified-agent:22.8.3 Philip Chen
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time Requested By  ... Comment Policy Violation
+0   2023-07-10 07:30:14     n1hudhkr  ...     NaN            False
+1   2023-06-30 04:33:39     n1hudhkr  ...     NaN            False
+2   2023-06-30 03:44:09     n1hudhkr  ...     NaN            False
+3   2023-05-22 12:47:12     n1hudhkr  ...     NaN            False
+4   2023-05-22 12:40:12     n1hudhkr  ...     NaN            False
+5   2023-05-19 06:10:35     n1hudhkr  ...     NaN            False
+6   2023-05-19 06:04:55     n1hudhkr  ...     NaN            False
+7   2023-05-19 05:55:38     n1hudhkr  ...     NaN            False
+8   2023-05-19 05:41:22     n1hudhkr  ...     NaN            False
+9   2023-05-18 14:37:07     n1hudhkr  ...     NaN            False
+10  2023-05-18 14:29:21     n1hudhkr  ...     NaN            False
+11  2023-05-15 06:41:46     n1hudhkr  ...     NaN            False
+12  2023-04-11 01:06:12     n1hudhkr  ...     NaN            False
+13  2023-04-11 01:03:59     n1hudhkr  ...     NaN            False
+14  2023-03-24 07:35:29     Leah Lee  ...     NaN            False
+15  2023-03-24 07:05:38     Leah Lee  ...     NaN            False
+16  2023-01-13 04:06:21     Leah Lee  ...     NaN            False
+17  2023-01-07 02:06:07     Leah Lee  ...     NaN            False
+18  2023-01-06 07:42:06     Leah Lee  ...     NaN            False
+19  2023-01-06 07:35:08     Leah Lee  ...     NaN            False
+20  2022-11-18 06:45:48     Leah Lee  ...     NaN            False
+21  2022-11-16 07:26:48     Leah Lee  ...     NaN            False
+22  2022-11-16 06:58:24     Leah Lee  ...     NaN            False
+23  2022-11-16 06:58:23     Leah Lee  ...     NaN            False
+24  2022-11-16 06:55:05     Leah Lee  ...     NaN            False
+25  2022-11-16 06:55:04     Leah Lee  ...     NaN            False
+
+[26 rows x 8 columns]
+2023-07-10
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CPAMI
+Scan date: 2023-07-10
+Update org outdated version users succeed: CPAMI
+Version and users:
+unified-agent:22.8.2 n1hudhkr
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-11 06:45:39          金嘉韋  ...     NaN            False
+1    2023-09-04 03:29:25          金嘉韋  ...     NaN            False
+2    2023-08-30 00:28:32          金嘉韋  ...     NaN            False
+3    2023-08-25 06:51:07          金嘉韋  ...     NaN            False
+4    2023-08-25 06:46:09          金嘉韋  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+337  2023-01-03 07:11:40     Leah Lee  ...     NaN            False
+338  2023-01-03 07:11:24     Leah Lee  ...     NaN            False
+339  2023-01-03 07:11:14     Leah Lee  ...     NaN            False
+340  2022-12-29 06:31:48     Leah Lee  ...     NaN            False
+341  2022-12-23 06:30:14     Leah Lee  ...     NaN            False
+
+[342 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Yuanta Securities
+Scan date: 2023-09-11
+Update org outdated version users succeed: Yuanta Securities
+Version and users:
+unified-agent:22.8.2 金嘉韋
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 01:29:08      N107758  ...     NaN            False
+1    2023-09-11 09:20:50      N107758  ...     NaN            False
+2    2023-08-24 01:32:54      N108093  ...     NaN            False
+3    2023-08-24 01:28:56      N108093  ...     NaN            False
+4    2023-08-23 03:52:09      N108077  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+461  2021-01-04 06:13:25  Lan Hou Yu藍  ...     NaN            False
+462  2020-12-30 08:12:34  Lan Hou Yu藍  ...     NaN            False
+463  2020-12-30 07:52:54  Lan Hou Yu藍  ...     NaN            False
+464  2020-12-30 07:27:06  Lan Hou Yu藍  ...     NaN            False
+465  2020-12-30 07:26:57  Lan Hou Yu藍  ...     NaN            False
+
+[466 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Fiscal Information Agency, Ministry of Finance
+Scan date: 2023-09-12
+Update org outdated version users succeed: Fiscal Information Agency, Ministry of Finance
+Version and users:
+unified-agent:20.12.1 Lan Hou Yu藍\\nunified-agent:22.3.1 N107758\\nunified-agent:20.12.1 N108077\\nunified-agent:20.12.1 N108093
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:57:56          王建賢  ...     NaN            False
+1     2023-09-12 01:59:54          王建賢  ...     NaN            False
+2     2023-09-11 03:36:28      Eric Wu  ...     NaN            False
+3     2023-09-11 03:27:09          王建賢  ...     NaN            False
+4     2023-09-11 02:41:07    gitlab-ci  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+7796  2017-07-31 09:18:33          NaN  ...     NaN            False
+7797  2017-07-31 08:50:29          NaN  ...     NaN            False
+7798  2017-07-31 08:50:14          NaN  ...     NaN            False
+7799  2017-07-31 08:48:14          NaN  ...     NaN            False
+7800  2017-07-31 06:38:21          NaN  ...     NaN            False
+
+[7801 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Yuanta Bank
+Scan date: 2023-09-12
+Update org outdated version users succeed: Yuanta Bank
+Version and users:
+unified-agent:22.1.2 Eric Wu\\nunified-agent:19.1.2 gitlab-ci\\nunified-agent:22.1.2 王建賢
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time  ... Policy Violation
+0    2023-08-21 01:11:42  ...            False
+1    2023-08-21 01:11:36  ...            False
+2    2023-08-10 01:11:31  ...            False
+3    2023-07-14 03:22:39  ...            False
+4    2023-07-14 02:59:43  ...            False
+..                   ...  ...              ...
+310  2023-03-03 07:55:53  ...            False
+311  2023-03-03 07:44:12  ...            False
+312  2023-03-03 07:44:00  ...            False
+313  2023-03-03 07:43:58  ...            False
+314  2023-03-03 07:43:53  ...            False
+
+[315 rows x 8 columns]
+2023-08-21
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: FEIB
+Scan date: 2023-08-21
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time               Requested By  ... Comment Policy Violation
+0     2023-09-11 21:12:37  azure_devops_int_KGI_Bank  ...     NaN            False
+1     2023-09-11 20:08:47  azure_devops_int_KGI_Bank  ...     NaN            False
+2     2023-09-08 21:16:10  azure_devops_int_KGI_Bank  ...     NaN            False
+3     2023-09-08 20:13:47  azure_devops_int_KGI_Bank  ...     NaN            False
+4     2023-09-08 05:12:12                     137186  ...     NaN            False
+...                   ...                        ...  ...     ...              ...
+2370  2019-11-15 01:31:18                     129862  ...     NaN            False
+2371  2019-11-15 01:03:55                     129862  ...     NaN            False
+2372  2019-11-14 09:31:52                     129862  ...     NaN            False
+2373  2019-11-14 09:20:51                     129862  ...     NaN            False
+2374  2019-11-08 02:38:23                   Leah Lee  ...     NaN            False
+
+[2375 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: KGI Bank
+Scan date: 2023-09-11
+Update org outdated version users succeed: KGI Bank
+Version and users:
+unified-agent:20.8.1.1 129862\\nunified-agent:21.3.2 137186
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:55:09       121618  ...     NaN            False
+1     2023-09-12 06:45:28       121618  ...     NaN            False
+2     2023-09-12 06:10:27       121618  ...     NaN            False
+3     2023-09-12 03:31:02       121618  ...     NaN            False
+4     2023-09-12 03:29:37       121618  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+2947  2021-03-09 08:07:15      yichieh  ...     NaN            False
+2948  2021-03-09 08:04:57      yichieh  ...     NaN            False
+2949  2021-03-09 07:41:09      yichieh  ...     NaN            False
+2950  2021-03-08 08:07:43      yichieh  ...     NaN            False
+2951  2021-03-08 07:44:50      yichieh  ...     NaN            False
+
+[2952 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Bank of Taiwan
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time         Requested By  ... Comment Policy Violation
+0     2023-09-12 07:22:22  KGI_WS_Service_User  ...     NaN            False
+1     2023-09-12 05:53:39  KGI_WS_Service_User  ...     NaN            False
+2     2023-09-12 02:54:32  KGI_WS_Service_User  ...     NaN            False
+3     2023-09-12 02:21:30  KGI_WS_Service_User  ...     NaN            False
+4     2023-09-12 02:17:41  KGI_WS_Service_User  ...     NaN            False
+...                   ...                  ...  ...     ...              ...
+4396  2019-12-24 04:12:10            TonyCheng  ...     NaN            False
+4397  2019-12-23 05:13:38            TonyCheng  ...     NaN            False
+4398  2019-12-20 03:46:15            TonyCheng  ...     NaN            False
+4399  2019-12-20 03:42:43            TonyCheng  ...     NaN            False
+4400  2019-12-20 03:42:17            TonyCheng  ...     NaN            False
+
+[4401 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: KGI Securities
+Scan date: 2023-09-12
+Update org outdated version users succeed: KGI Securities
+Version and users:
+unified-agent:19.11.1 TonyCheng
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time               Requested By  ... Comment Policy Violation
+0     2023-09-11 21:12:37  azure_devops_int_KGI_Bank  ...     NaN            False
+1     2023-09-11 20:08:47  azure_devops_int_KGI_Bank  ...     NaN            False
+2     2023-09-08 21:16:10  azure_devops_int_KGI_Bank  ...     NaN            False
+3     2023-09-08 20:13:47  azure_devops_int_KGI_Bank  ...     NaN            False
+4     2023-09-08 05:12:12                     137186  ...     NaN            False
+...                   ...                        ...  ...     ...              ...
+2370  2019-11-15 01:31:18                     129862  ...     NaN            False
+2371  2019-11-15 01:03:55                     129862  ...     NaN            False
+2372  2019-11-14 09:31:52                     129862  ...     NaN            False
+2373  2019-11-14 09:20:51                     129862  ...     NaN            False
+2374  2019-11-08 02:38:23                   Leah Lee  ...     NaN            False
+
+[2375 rows x 8 columns]
+2023-09-11
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: KGI Bank
+Scan date: 2023-09-11
+Update org outdated version users succeed: KGI Bank
+Version and users:
+unified-agent:20.8.1.1 129862\\nunified-agent:21.3.2 137186
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                   Time  Requested By  ... Comment Policy Violation
+0   2023-06-26 08:02:50  Michael Tsai  ...     NaN            False
+1   2022-12-05 03:05:59     yoyo.tsai  ...     NaN            False
+2   2022-11-08 06:22:06     yoyo.tsai  ...     NaN            False
+3   2022-10-25 04:00:22     yoyo.tsai  ...     NaN            False
+4   2022-09-29 02:06:29     Alan.Kuan  ...     NaN            False
+..                  ...           ...  ...     ...              ...
+94  2020-05-28 08:34:42      Leah Lee  ...     NaN            False
+95  2020-05-18 09:17:36      Leah Lee  ...     NaN            False
+96  2020-04-22 08:04:30      Leah Lee  ...     NaN            False
+97  2020-04-22 07:53:53      Leah Lee  ...     NaN            False
+98  2019-12-05 08:35:50      Leah Lee  ...     NaN            False
+
+[99 rows x 8 columns]
+2023-06-26
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: MSIG
+Scan date: 2023-06-26
+Update org outdated version users succeed: MSIG
+Version and users:
+unified-agent:20.11.2 Michael Tsai
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 08:07:08         yggu  ...     NaN            False
+1     2023-09-12 08:06:36         yggu  ...     NaN            False
+2     2023-09-12 08:04:41         yggu  ...     NaN            False
+3     2023-09-12 08:04:29         yggu  ...     NaN            False
+4     2023-09-12 08:04:24         yggu  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+9995  2023-09-07 03:49:07         yggu  ...     NaN            False
+9996  2023-09-07 03:49:02         yggu  ...     NaN            False
+9997  2023-09-07 03:46:32         yggu  ...     NaN            False
+9998  2023-09-07 03:46:22         yggu  ...     NaN            False
+9999  2023-09-07 03:46:17         yggu  ...     NaN            False
+
+[10000 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CHTTL
+Scan date: 2023-09-12
+Update org outdated version users succeed: CHTTL
+Version and users:
+unified-agent:22.11.1 8080_620@cht.com.tw\\nunified-agent:21.2.1 yggu
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-06 10:09:13    Neo Hsieh  ...     NaN            False
+1    2023-09-06 08:38:21    Neo Hsieh  ...     NaN            False
+2    2023-09-04 08:37:30    Neo Hsieh  ...     NaN            False
+3    2023-09-04 08:15:56    Neo Hsieh  ...     NaN            False
+4    2023-09-04 07:30:32    Neo Hsieh  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+675  2020-08-27 17:34:49   getterchen  ...     NaN            False
+676  2020-08-27 17:31:48   getterchen  ...     NaN            False
+677  2020-08-27 17:24:02   getterchen  ...     NaN            False
+678  2020-08-27 17:20:31   getterchen  ...     NaN            False
+679  2020-07-23 07:37:36   getterchen  ...     NaN            False
+
+[680 rows x 8 columns]
+2023-09-06
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Allianz Taiwan Life Insurance Company Limited
+Scan date: 2023-09-06
+Update org outdated version users succeed: Allianz Taiwan Life Insurance Company Limited
+Version and users:
+unified-agent:21.6.2.2 getterchen
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-06-29 05:13:31          王識超  ...     NaN            False
+1    2023-06-29 03:47:06          王識超  ...     NaN            False
+2    2023-06-29 03:38:01          王識超  ...     NaN            False
+3    2023-05-15 05:55:07          資二組  ...     NaN            False
+4    2023-05-15 05:32:47          資二組  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+328  2020-07-28 06:25:52      Yu Phin  ...     NaN            False
+329  2020-07-28 06:25:40      Yu Phin  ...     NaN            False
+330  2020-07-28 06:24:02      Yu Phin  ...     NaN            False
+331  2020-07-28 06:22:24      Yu Phin  ...     NaN            False
+332  2020-07-17 06:23:11      Yu Phin  ...     NaN            False
+
+[333 rows x 8 columns]
+2023-06-29
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: 台灣電力公司
+Scan date: 2023-06-29
+Update org outdated version users succeed: 台灣電力公司
+Version and users:
+unified-agent:22.6.1 王識超
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-12 01:29:08      N107758  ...     NaN            False
+1    2023-09-11 09:20:50      N107758  ...     NaN            False
+2    2023-08-24 01:32:54      N108093  ...     NaN            False
+3    2023-08-24 01:28:56      N108093  ...     NaN            False
+4    2023-08-23 03:52:09      N108077  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+461  2021-01-04 06:13:25  Lan Hou Yu藍  ...     NaN            False
+462  2020-12-30 08:12:34  Lan Hou Yu藍  ...     NaN            False
+463  2020-12-30 07:52:54  Lan Hou Yu藍  ...     NaN            False
+464  2020-12-30 07:27:06  Lan Hou Yu藍  ...     NaN            False
+465  2020-12-30 07:26:57  Lan Hou Yu藍  ...     NaN            False
+
+[466 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Fiscal Information Agency, Ministry of Finance
+Scan date: 2023-09-12
+Update org outdated version users succeed: Fiscal Information Agency, Ministry of Finance
+Version and users:
+unified-agent:20.12.1 Lan Hou Yu藍\\nunified-agent:22.3.1 N107758\\nunified-agent:20.12.1 N108077\\nunified-agent:20.12.1 N108093
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:55:09       121618  ...     NaN            False
+1     2023-09-12 06:45:28       121618  ...     NaN            False
+2     2023-09-12 06:10:27       121618  ...     NaN            False
+3     2023-09-12 03:31:02       121618  ...     NaN            False
+4     2023-09-12 03:29:37       121618  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+2947  2021-03-09 08:07:15      yichieh  ...     NaN            False
+2948  2021-03-09 08:04:57      yichieh  ...     NaN            False
+2949  2021-03-09 07:41:09      yichieh  ...     NaN            False
+2950  2021-03-08 08:07:43      yichieh  ...     NaN            False
+2951  2021-03-08 07:44:50      yichieh  ...     NaN            False
+
+[2952 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Bank of Taiwan
+Scan date: 2023-09-12
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time     Requested By  ... Comment Policy Violation
+0    2023-09-05 06:29:59  Cheng-Guang Fan  ...     NaN            False
+1    2023-08-24 03:17:41  Cheng-Guang Fan  ...     NaN            False
+2    2023-08-23 06:29:09  Cheng-Guang Fan  ...     NaN            False
+3    2023-08-23 06:27:45  Cheng-Guang Fan  ...     NaN            False
+4    2023-08-23 06:05:53  Cheng-Guang Fan  ...     NaN            False
+..                   ...              ...  ...     ...              ...
+535  2021-04-27 09:19:46  Cheng-Guang Fan  ...     NaN            False
+536  2021-04-27 09:13:17  Cheng-Guang Fan  ...     NaN            False
+537  2021-04-27 06:53:58  Cheng-Guang Fan  ...     NaN            False
+538  2021-04-20 07:26:35  Cheng-Guang Fan  ...     NaN            False
+539  2021-04-20 07:10:43  Cheng-Guang Fan  ...     NaN            False
+
+[540 rows x 8 columns]
+2023-09-05
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Central Bank of the Republic of China(Taiwan)
+Scan date: 2023-09-05
+Object of type DataFrame is not JSON serializable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-06 10:09:13    Neo Hsieh  ...     NaN            False
+1    2023-09-06 08:38:21    Neo Hsieh  ...     NaN            False
+2    2023-09-04 08:37:30    Neo Hsieh  ...     NaN            False
+3    2023-09-04 08:15:56    Neo Hsieh  ...     NaN            False
+4    2023-09-04 07:30:32    Neo Hsieh  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+675  2020-08-27 17:34:49   getterchen  ...     NaN            False
+676  2020-08-27 17:31:48   getterchen  ...     NaN            False
+677  2020-08-27 17:24:02   getterchen  ...     NaN            False
+678  2020-08-27 17:20:31   getterchen  ...     NaN            False
+679  2020-07-23 07:37:36   getterchen  ...     NaN            False
+
+[680 rows x 8 columns]
+2023-09-06
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Allianz Taiwan Life Insurance Company Limited
+Scan date: 2023-09-06
+Update org outdated version users succeed: Allianz Taiwan Life Insurance Company Limited
+Version and users:
+unified-agent:21.6.2.2 getterchen
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 08:10:03   Jack Huang  ...     NaN            False
+1     2023-09-12 07:58:12   Jack Huang  ...     NaN            False
+2     2023-09-12 07:07:17   Jack Huang  ...     NaN            False
+3     2023-09-12 06:14:00   Jack Huang  ...     NaN            False
+4     2023-09-12 06:10:17   Jack Huang  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+4176  2022-03-28 01:53:13     Eddy_Chi  ...     NaN            False
+4177  2022-03-28 01:37:15     Eddy_Chi  ...     NaN            False
+4178  2022-03-25 05:34:50     Eddy_Chi  ...     NaN            False
+4179  2022-03-25 05:17:10     Eddy_Chi  ...     NaN            False
+4180  2022-03-25 03:10:45     Eddy_Chi  ...     NaN            False
+
+[4181 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Cathay Securities
+Scan date: 2023-09-12
+Update org outdated version users succeed: Cathay Securities
+Version and users:
+unified-agent:22.1.2 Jack Huang
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 02:05:11       devops  ...     NaN            False
+1     2023-09-12 01:51:14       devops  ...     NaN            False
+2     2023-09-11 10:20:47       devops  ...     NaN            False
+3     2023-09-11 09:34:54       devops  ...     NaN            False
+4     2023-09-11 08:15:14       devops  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+8767  2022-02-14 08:13:33     Eddy_Chi  ...     NaN            False
+8768  2022-02-14 08:05:41     Eddy_Chi  ...     NaN            False
+8769  2022-02-14 08:01:02     Eddy_Chi  ...     NaN            False
+8770  2022-02-14 07:04:40     Eddy_Chi  ...     NaN            False
+8771  2022-02-14 06:27:57     Eddy_Chi  ...     NaN            False
+
+[8772 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: CLI
+Scan date: 2023-09-12
+Update org outdated version users succeed: CLI
+Version and users:
+unified-agent:22.1.2 Robert Huang\\nunified-agent:22.7.2 devops
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                     Time Requested By  ... Comment Policy Violation
+0     2023-09-12 07:57:56          王建賢  ...     NaN            False
+1     2023-09-12 01:59:54          王建賢  ...     NaN            False
+2     2023-09-11 03:36:28      Eric Wu  ...     NaN            False
+3     2023-09-11 03:27:09          王建賢  ...     NaN            False
+4     2023-09-11 02:41:07    gitlab-ci  ...     NaN            False
+...                   ...          ...  ...     ...              ...
+7796  2017-07-31 09:18:33          NaN  ...     NaN            False
+7797  2017-07-31 08:50:29          NaN  ...     NaN            False
+7798  2017-07-31 08:50:14          NaN  ...     NaN            False
+7799  2017-07-31 08:48:14          NaN  ...     NaN            False
+7800  2017-07-31 06:38:21          NaN  ...     NaN            False
+
+[7801 rows x 8 columns]
+2023-09-12
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Yuanta Bank
+Scan date: 2023-09-12
+Update org outdated version users succeed: Yuanta Bank
+Version and users:
+unified-agent:22.1.2 Eric Wu\\nunified-agent:19.1.2 gitlab-ci\\nunified-agent:22.1.2 王建賢
+[1] enter getPluginRequestHistoryReport
+[Debug] Cannot get the excel file: TWM
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+[4] finish read ScanRecord
+[5] enter try
+                    Time Requested By  ... Comment Policy Violation
+0    2023-09-06 10:09:13    Neo Hsieh  ...     NaN            False
+1    2023-09-06 08:38:21    Neo Hsieh  ...     NaN            False
+2    2023-09-04 08:37:30    Neo Hsieh  ...     NaN            False
+3    2023-09-04 08:15:56    Neo Hsieh  ...     NaN            False
+4    2023-09-04 07:30:32    Neo Hsieh  ...     NaN            False
+..                   ...          ...  ...     ...              ...
+675  2020-08-27 17:34:49   getterchen  ...     NaN            False
+676  2020-08-27 17:31:48   getterchen  ...     NaN            False
+677  2020-08-27 17:24:02   getterchen  ...     NaN            False
+678  2020-08-27 17:20:31   getterchen  ...     NaN            False
+679  2020-07-23 07:37:36   getterchen  ...     NaN            False
+
+[680 rows x 8 columns]
+2023-09-06
+[1]enter overwrite_scan_date
+[1]finish overwrite_scan_date
+[2]enter overwrite_scan_date
+[2]finish overwrite_scan_date
+Update org latest scan date succeed: Allianz Taiwan Life Insurance Company Limited
+Scan date: 2023-09-06
+Update org outdated version users succeed: Allianz Taiwan Life Insurance Company Limited
+Version and users:
+unified-agent:21.6.2.2 getterchen
+[1] enter getPluginRequestHistoryReport
+[2] finish reponse getPluginRequestHistoryReport
+[Info] Write successful
+[3] finish get_plugin_request_history_report
+File is not a zip file
+[4] finish read ScanRecord
+[5] enter try
+None
+'NoneType' object is not subscriptable
+'NoneType' object is not subscriptable
